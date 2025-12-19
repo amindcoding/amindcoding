@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### import { myProfile } from **amindcoding**
 
-🌱Frontend Web Developer with **3+ years of experience**, blending a **professional mindset** with a **friendly engineer approach**. I focus on building **performant, sustainable, and maintainable web applications**, turning ideas into **well-structured MVPs** that are ready to scale.
+🌱Frontend Web Developer with **3+ years of experience**, blending a **professional mindset** with a **friendly engineer approach**. I focus on building **performant, sustainable, and maintainable web applications**, turning ideas into **well structured MVPs** that are ready to scale.
 
 ---
 
@@ -65,7 +65,7 @@ Saya adalah Frontend Web Developer dengan pengalaman di **Fintech, Logistik, dan
 
 ## 🔭 Current Focus
 
-* 🏗 Building real-world products
+* 🏗 Building real world products
 * 🧠 Deepening knowledge in **System Design & Software Architecture**
 * ⚙️ Writing scalable frontend foundations
 
@@ -83,4 +83,4 @@ Saya adalah Frontend Web Developer dengan pengalaman di **Fintech, Logistik, dan
 
 > *"Good software is built twice: first in the mind, then in the code."*
 
-Thanks for stopping by — feel free to explore my repositories 🚀
+Thanks for stopping by 😄 feel free to explore my repositories 🚀

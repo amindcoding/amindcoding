@@ -1,4 +1,4 @@
-## Hi 👋, I care about system are build and how they scale, let's build properly 🔭
+## Hi 👋 I care about system are build and how they scale, let's build properly 🔭
 <!--
 **amindcoding/amindcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### import { myProfile } from **amindcoding**
 
-🌱Frontend Web Developer with **3+ years of experience**, blending a **professional mindset** with a **friendly engineer approach**. I focus on building **performant, sustainable, and maintainable web applications**, turning ideas into **well structured MVPs** that are ready to scale.
+🌱 Frontend Web Developer with **3+ YoE**, blending a **professional mindset** with a **friendly engineer approach**. I focus on building **performant, sustainable, and maintainable web applications**, turning ideas into **well structured MVPs** that are ready to scale.
 
 ---
 
